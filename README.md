@@ -2,7 +2,7 @@
 
 ### 프로젝트 저기요..
 
-![1](https://user-images.githubusercontent.com/41291493/108789606-f2572c00-75bd-11eb-80f1-c31c5f52b17d.jpeg)
+![1](https://user-images.githubusercontent.com/41291493/108789713-2d595f80-75be-11eb-831c-35851f28ec9b.jpeg)
 
 ## Getting Started
 
