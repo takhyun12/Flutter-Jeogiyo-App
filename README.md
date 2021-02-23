@@ -1,6 +1,8 @@
 # jeogiyo
 
-Project of jeogiyo
+### 프로젝트 저기요..
+
+![1](https://user-images.githubusercontent.com/41291493/108789606-f2572c00-75bd-11eb-80f1-c31c5f52b17d.jpeg)
 
 ## Getting Started
 
