@@ -7,10 +7,6 @@
 
 ![1](https://user-images.githubusercontent.com/41291493/108789713-2d595f80-75be-11eb-831c-35851f28ec9b.jpeg)
 
-### 핵심목표
-1) LSTM 모델을 기반으로 주가 예측을 수행 (완료)
-2) streamlit 라이브러리 기반 웹 앱 인터페이스 제공 (진행중)
-
 ---
 
 ### 사용된 기술
@@ -19,25 +15,10 @@
 ---
 
 ### Requirement
-* P### 핵심목표
-1) LSTM 모델을 기반으로 주가 예측을 수행 (완료)
-2) streamlit 라이브러리 기반 웹 앱 인터페이스 제공 (진행중)
-
----
-
-### 사용된 기술
-* LSTM Model
-* Adam Optimizer
-* MSE Loss Function
-
----
-
-### Requirement
 * Flutter/Dart
 * Android Mobile
 
 ---
-
 
 ### Usage
 
