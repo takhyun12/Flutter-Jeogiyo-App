@@ -1,6 +1,9 @@
 # jeogiyo
 
-### 프로젝트 저기요..
+### Dart/Flutter를 공부하기 위한 습작임
+
+안드로이드 메터리얼 디자인을 통해 UI를 구현하였으며,
+네이버 클라우드의 음성합성 서비스 "클로바"를 통해 TTS를 구현하였다.
 
 ![1](https://user-images.githubusercontent.com/41291493/108789713-2d595f80-75be-11eb-831c-35851f28ec9b.jpeg)
 
